@@ -1,0 +1,7 @@
+var db1 = BT.AppBuilder.create({
+  name: 'db1',
+  path: dirname(),
+  title: 'Db1',
+  frameworks: [],
+  languages: ['en']
+});

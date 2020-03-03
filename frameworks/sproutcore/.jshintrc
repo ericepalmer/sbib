@@ -1,0 +1,10 @@
+{
+  "browser": true,
+  "indent": 2,
+  "latedef": true,
+  "eqeqeq": true,
+  "maxerr": 100,
+  "predef": ["SC", "YES", "NO", "sc_require", "sc_super", "sc_static"],
+  "undef": true,
+  "unused": "vars"
+}
